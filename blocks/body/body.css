@@ -1,0 +1,25 @@
+.body {
+  background-color: #2A2C2F;
+  font-family: 'Inter';
+  color: white;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.border {
+  border: solid 1px red;
+}
+
+.photo-grid {
+}
+
+.photo-grid__item {
+
+}
+
+.photo-grid__img {
+
+}
+
+

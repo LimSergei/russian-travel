@@ -14,6 +14,7 @@
   @import url(../blocks/journey/__subtitle/journey__subtitle.css);
   @import url(../blocks/journey/__image/journey__image.css);
   @import url(../blocks/journey/__caption/journey__caption.css);
+  @import url(../blocks/journey/__lead/journey__lead.css);
 
 
 @import url(../blocks/info/info.css);

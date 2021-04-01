@@ -1,5 +1,5 @@
 .footer {
-  font-family: 'Inter' Arial, Helvetica, sans-serif;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   color: white;
   margin: 92px 48px 24px;
   max-width: 1184px;
@@ -22,7 +22,7 @@
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 655px) {
   .footer {
     display: table;
     margin-top: 64px;

@@ -4,12 +4,19 @@
   font-size: 72px;
   line-height: 106%;
   text-align: center;
-  margin: 0;
+  margin: 0 auto;
 }
+
 
 @media (max-width: 640px) {
   .cover__title {
     font-size: 32px;
     line-height: 109%;
+  }
+}
+
+@media (max-width: 425px) {
+  .cover__title {
+    max-width: 234px;
   }
 }

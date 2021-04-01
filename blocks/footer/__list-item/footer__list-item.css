@@ -1,5 +1,4 @@
 .footer__list-item {
-  display: inline;
   margin-right: 18px;
 }
 
@@ -7,7 +6,7 @@
   margin-right: 0;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 655px) {
   .footer__list-item {
     display: list-item;
     margin-right: 0;

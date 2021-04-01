@@ -1,20 +1,25 @@
 .info {
   max-width: 690px;
-  margin: 0 auto 0 0;
-  padding: 92px 0;
+  margin: 92px 442px 92px 148px;
+}
+
+@media (max-width: 1024px) {
+  .info {
+    margin-right: 286px;
+    margin-left: 48px;
+  }
 }
 
 @media (max-width: 768px) {
   .info {
     max-width: 720px;
-    padding: 88px 0;
+    margin: 88px 24px;
   }
 }
 
 @media (max-width: 425px) {
   .info {
     max-width: 288px;
-    padding: 64px 0;
-    margin: 0 16px;
+    margin: 64px 16px;
   }
 }

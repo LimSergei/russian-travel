@@ -2,8 +2,17 @@
   text-decoration: none;
   color: white;
   transition: opacity 0.5s ease-in-out;
+  font-size: 16px;
+  line-height: 112%;
 }
 
 .footer__link:hover {
   opacity: 0.8;
+}
+
+@media (max-width: 655px) {
+  .footer__link {
+    font-size: 24px;
+    line-height: 100%;
+    }
 }

@@ -21,8 +21,3 @@
   }
 }
 
-@media (max-width: 425px) {
-  .journey__subtitle {
-    margin: 16px 16px 40px;
-  }
-}

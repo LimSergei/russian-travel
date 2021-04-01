@@ -109,6 +109,10 @@ samp {
   font-size: 1em; /* 2 */
 }
 
+figure {
+  margin: 0;
+}
+
 /**
  * Add the correct font size in all browsers.
  */

@@ -24,7 +24,7 @@
 
 @media (max-width: 655px) {
   .footer {
-    display: table;
+    display: block;
     margin-top: 64px;
     margin-left: 16px;
     margin-right: 118px;
